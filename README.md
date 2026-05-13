@@ -46,3 +46,18 @@ id,name,major,year
 1001,Alice,CS,3
 1002,Bob,EE,2
 1003,Charlie,CS,4
+## Test Status
+
+The program has been compiled and tested successfully with the following files:
+
+- tests/students.csv
+- tests/quoted_students.csv
+
+The tested features include:
+
+- Loading CSV files
+- Displaying all student records
+- Searching by student ID
+- Searching by student name
+- Searching by major
+- Handling quoted CSV fields
